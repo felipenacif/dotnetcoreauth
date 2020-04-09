@@ -1,0 +1,7 @@
+﻿Google
+---------------------------------
+ClientId
+643357078393-5u9mskkhosjbja7ttugav5bidjbhiiso.apps.googleusercontent.com
+
+Client Secret
+bquV3xSJ4UwDnsJF2qOel_og

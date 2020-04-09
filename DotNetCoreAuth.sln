@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreAuth", "DotNetCoreAuth\DotNetCoreAuth.csproj", "{10960A3D-0763-4BE7-968F-26E61D5AB0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10960A3D-0763-4BE7-968F-26E61D5AB0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10960A3D-0763-4BE7-968F-26E61D5AB0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10960A3D-0763-4BE7-968F-26E61D5AB0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10960A3D-0763-4BE7-968F-26E61D5AB0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {428C5FCB-432C-40D5-A13E-237143A608F5}
+	EndGlobalSection
+EndGlobal
